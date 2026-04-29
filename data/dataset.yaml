@@ -1,0 +1,15 @@
+# Infrastructure Defect Detection Dataset Configuration
+# Used by YOLOv8 for training and validation
+
+path: ./data
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 3
+
+# Class names
+names:
+  0: crack
+  1: corrosion
+  2: spalling

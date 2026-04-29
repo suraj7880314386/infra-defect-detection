@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.pt
+!models/.gitkeep
+runs/
+uploads/
+reports/*.pdf
+chroma_data/
+.DS_Store
