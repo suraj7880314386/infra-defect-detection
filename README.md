@@ -48,7 +48,7 @@ A computer vision pipeline using **YOLOv8** to detect structural defects (cracks
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/infra-defect-detection.git
+git clone https://github.com/suraj7880314386/infra-defect-detection.git
 cd infra-defect-detection
 pip install -r requirements.txt
 ```
